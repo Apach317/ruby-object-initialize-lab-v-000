@@ -3,8 +3,8 @@ class Dog
     @breed = breed
     @name = name
     if breed == none
-      return "Mutt
-    end"
+      return "Mutt"
+    end
   end
   def name
     @name
