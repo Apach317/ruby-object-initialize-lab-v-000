@@ -2,9 +2,6 @@ class Dog
   def initialize(name, breed)
     @breed = breed
     @name = name
-    if breed = none
-      return "Mutt"
-    end
   end
   def name
     @name
