@@ -4,6 +4,7 @@ class Dog
     @name = name
     if breed = none
       return "Mutt"
+    end
   end
   def name
     @name
