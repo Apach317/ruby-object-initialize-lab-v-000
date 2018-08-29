@@ -18,3 +18,4 @@ class Dog
       return "Mutt"
     end
   end
+end
